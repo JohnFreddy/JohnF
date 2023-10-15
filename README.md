@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 A seasoned software developer with a flair for turning challenges into solutions. Known for keeping pace with the fast-evolving tech world and crafting user-friendly applications, while fostering a culture of innovation and teamwork. Guided by a passion for learning and a knack for swift adaptation.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 -  **Working :** Front-End/Back-End :computer: | Cloud :cloud:
 -  **Hobbies :** Games 🎮 | Music :headphones: | Art 🎨
 -  **Ask me about :** Anything!, I'm happy to help 🙂
 -  **About :** I love learning about everything! (I've worked only with private repositories 😆)
 -  **Pronouns :** He/Him :innocent: 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
