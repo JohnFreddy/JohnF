@@ -1,10 +1,10 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm John</h2>
+<h2>Hey there! I'm John</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 A seasoned software developer with a flair for turning challenges into solutions. Known for keeping pace with the fast-evolving tech world and crafting user-friendly applications, while fostering a culture of innovation and teamwork. Guided by a passion for learning and a knack for swift adaptation. 💜 Since 2017 as Software developer! 💜
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
--  **Working :** Front-End/Back-End :computer: | Cloud :cloud:
+-  **Working :** Currently working at <a href="https://www.linkedin.com/company/chemical-safety-international/mycompany/" target="blank" >Chemical Safety International</a> 💼
 -  **Hobbies :** Games 🎮 | Music :headphones: | Art 🎨
 -  **Ask me about :** Anything!, I'm happy to help 🙂
 -  **About :** I love learning about everything! (I've worked only with private repositories 😆)
