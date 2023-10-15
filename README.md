@@ -1,6 +1,6 @@
 ### 🤔 About
 -  **Working :** Front-End/Back-End :computer: | Cloud :cloud:
--  **Hobbies :** Games 🎮 | Music :headphones:
+-  **Hobbies :** Games 🎮 | Music :headphones: | Art 🎨
 -  **Ask me about :** Anything!, I'm happy to help 🙂
 -  **About :** I love learning about everything! (I've worked only with private repositories 😆)
 -  **Pronouns :** He/Him :innocent: 
@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/johnfmorales/?locale=en_US" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="35" width="35" />
-</a>
+</a>‎ 
 <a href="https://www.instagram.com/_john_frederick_/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="35" width="35" />
 </a>
