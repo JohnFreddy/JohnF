@@ -7,7 +7,7 @@ A seasoned software developer with a flair for turning challenges into solutions
 -  **Working :** Currently working at <a href="https://www.linkedin.com/company/chemical-safety-international/mycompany/" target="blank" >Chemical Safety International</a> 💼
 -  **Hobbies :** Games 🎮 | Music :headphones: | Art 🎨
 -  **Ask me about :** Anything!, I'm happy to help 🙂
--  **About :** I love learning about everything! (I've worked only with private repositories 😆)
+-  **About :** I love learning about everything! (I've worked only with private repositories 😆) 🇨🇴
 -  **Pronouns :** He/Him :innocent: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
