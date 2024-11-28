@@ -15,7 +15,7 @@ A seasoned software developer with a flair for turning challenges into solutions
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,git,js,nodejs,angular,react,svelte,ts,go,java,py,ruby,spring,rabbitmq,redis,redux,mongodb,mysql,aws,gcp,azure,cpp,kubernetes,figma,css,scss,idea,postman,powershell,vscode" />
+      <img src="https://skillicons.dev/icons?i=linux,git,js,nodejs,angular,react,svelte,ts,go,java,py,ruby,spring,elixir,rabbitmq,redis,redux,mongodb,mysql,aws,gcp,azure,cpp,kubernetes,figma,css,scss,tailwind,idea,postman,powershell,vscode" />
     </a>
 </p>
 
